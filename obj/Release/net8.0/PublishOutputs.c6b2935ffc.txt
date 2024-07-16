@@ -1,0 +1,7 @@
+C:\Users\asus\Github-local-repo\app1\app1publish\app1.exe
+C:\Users\asus\Github-local-repo\app1\app1publish\appsettings.Development.json
+C:\Users\asus\Github-local-repo\app1\app1publish\appsettings.json
+C:\Users\asus\Github-local-repo\app1\app1publish\app1.dll
+C:\Users\asus\Github-local-repo\app1\app1publish\app1.deps.json
+C:\Users\asus\Github-local-repo\app1\app1publish\app1.runtimeconfig.json
+C:\Users\asus\Github-local-repo\app1\app1publish\app1.pdb
